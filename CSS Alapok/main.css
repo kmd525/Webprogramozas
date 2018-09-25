@@ -1,5 +1,9 @@
 h1 {
     text-align: center;
     background-color: azure;
-    color:#123456;
+    color:#bcd;
+}
+
+p, h1 {
+    color:darkcyan;
 }
